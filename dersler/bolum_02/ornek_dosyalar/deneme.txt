@@ -1,0 +1,5 @@
+Birinci satır: Python programlama
+İkinci satır: Veri bilimi
+Üçüncü satır: Makine öğrenmesi
+Dördüncü satır: İstatistik
+Beşinci satır: Araştırma yöntemleri

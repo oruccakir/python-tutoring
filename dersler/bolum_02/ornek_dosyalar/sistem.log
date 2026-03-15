@@ -1,0 +1,11 @@
+2024-03-15 08:00:12 INFO  Sistem başlatıldı
+2024-03-15 08:05:23 INFO  Kullanıcı girişi: ahmet
+2024-03-15 08:12:45 WARN  Disk kullanımı %85
+2024-03-15 08:30:01 ERROR Veritabanı bağlantısı kesildi
+2024-03-15 08:30:15 INFO  Veritabanı yeniden bağlandı
+2024-03-15 09:00:00 INFO  Yedekleme başladı
+2024-03-15 09:15:33 WARN  Yedekleme yavaş
+2024-03-15 09:30:00 INFO  Yedekleme tamamlandı
+2024-03-15 10:00:12 ERROR Bellek yetersiz
+2024-03-15 10:05:00 WARN  Servis yeniden başlatılıyor
+2024-03-15 10:05:30 INFO  Servis başlatıldı

@@ -1,0 +1,32 @@
+[
+  {
+    "ad": "Ayşe",
+    "bolum": "Biyoloji",
+    "puan": 88,
+    "yil": 2
+  },
+  {
+    "ad": "Mehmet",
+    "bolum": "Fizik",
+    "puan": 72,
+    "yil": 3
+  },
+  {
+    "ad": "Fatma",
+    "bolum": "Biyoloji",
+    "puan": 95,
+    "yil": 1
+  },
+  {
+    "ad": "Ali",
+    "bolum": "Fizik",
+    "puan": 65,
+    "yil": 2
+  },
+  {
+    "ad": "Zeynep",
+    "bolum": "Kimya",
+    "puan": 82,
+    "yil": 1
+  }
+]

@@ -1,0 +1,6 @@
+Bu ilk satır.
+Bu ikinci satır.
+Bu eklenen satır.
+Satır A
+Satır B
+Satır C

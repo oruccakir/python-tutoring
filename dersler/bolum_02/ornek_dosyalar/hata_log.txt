@@ -1,0 +1,6 @@
+Satır 3 (D002): Yaş sayısal değil: 'abc'
+Satır 4 (D003): Eksik değer: boy
+Satır 5 (D004): Kilo sayısal değil: 'HATA'
+Satır 6 (D005): Geçersiz yaş: -5
+Satır 7 (D006): Eksik değer: kan_basinci
+Satır 9 (D008): Geçersiz yaş: 999

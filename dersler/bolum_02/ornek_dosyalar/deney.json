@@ -1,0 +1,27 @@
+{
+  "baslik": "Sıcaklık Etkisi Deneyi",
+  "tarih": "2024-03-15",
+  "arastirmaci": "Dr. Yılmaz",
+  "denek_sayisi": 30,
+  "parametreler": {
+    "sicaklik": [
+      20,
+      25,
+      30,
+      35
+    ],
+    "nem": 60
+  },
+  "sonuclar": [
+    {
+      "grup": "kontrol",
+      "ortalama": 23.5,
+      "std": 2.1
+    },
+    {
+      "grup": "deney",
+      "ortalama": 28.7,
+      "std": 3.4
+    }
+  ]
+}

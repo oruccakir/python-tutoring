@@ -1,0 +1,13 @@
+{
+  "proje_adi": "Sıcaklık Etkisi Deneyi",
+  "arastirmaci": "Dr. Yılmaz",
+  "veri_klasoru": "./veri",
+  "cikti_klasoru": "./sonuclar",
+  "parametreler": {
+    "alfa": 0.05,
+    "iterasyon": 1000,
+    "seed": 42
+  },
+  "log_seviyesi": "INFO",
+  "otomatik_yedekleme": true
+}

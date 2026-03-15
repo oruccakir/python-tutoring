@@ -1,0 +1,11 @@
+denek_id,yas,cinsiyet,grup,pre_test,post_test,fark
+D001,25,K,deney,45,72,27
+D002,31,E,kontrol,52,55,3
+D003,28,K,deney,38,68,30
+D004,35,E,deney,41,75,34
+D005,22,K,kontrol,48,50,2
+D006,29,E,kontrol,55,58,3
+D007,33,K,deney,43,71,28
+D008,27,E,kontrol,50,52,2
+D009,30,K,deney,39,69,30
+D010,26,E,kontrol,47,49,2
